@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[bayview baptist]]></title>
         <description><![CDATA[bayview baptist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bayview-baptist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 17:37:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 18:30:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bayview-baptist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/33b1ad7b-5be6-4db3-b64e-5caa2b082c71.png">]]></description>
+            <link>https://thegrid.ai/bayview-baptist/4fb49b6f-cfc9-4bc6-b3ac-765d9b7a1335/index.html</link>
+            <guid isPermaLink="false">4fb49b6f-cfc9-4bc6-b3ac-765d9b7a1335</guid>
+            <pubDate>Sat, 26 Mar 2016 18:30:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bayview Baptist Church]]></title>
             <description><![CDATA[<article><h1>Bayview Baptist Church</h1><p>Hello</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/695ee2b1-0220-4b4d-a1b4-fd77130783a8.png"></article>]]></description>
-            <link>undefinedbayview-baptist-church/index.html</link>
+            <link>https://thegrid.ai/bayview-baptist/bayview-baptist-church/index.html</link>
             <guid isPermaLink="false">b63c5116-d4fa-457a-ad03-c27b8d1eaca5</guid>
             <pubDate>Sat, 26 Mar 2016 17:36:37 GMT</pubDate>
         </item>
