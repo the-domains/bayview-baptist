@@ -1,0 +1,28 @@
+name: bayview baptist
+favicon: null
+layout_spectrum: 0.16388438665308058
+typography_spectrum: 0.9409778302069753
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.62140724924393
+  lightness: 0.0815064893104136
+  saturation: 0.5653519816696644
+  rhythmicContrast: 0.06899456959217787
+purpose: []
