@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Hello
-datePublished: '2016-03-27T01:35:22.331Z'
-dateModified: '2016-03-27T01:33:37.626Z'
+description: Melanie and Leah
+datePublished: '2016-03-27T01:45:31.254Z'
+dateModified: '2016-03-27T01:45:30.587Z'
 title: Bayview Baptist Church
 author: []
 sourcePath: _posts/2016-03-26-bayview-baptist-church.md
